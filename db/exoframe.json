@@ -1,0 +1,10 @@
+{
+  "name": "andrewlaing-message-database",
+  "domain": false,
+  "hostname": "andrewlaing-message-database",
+  "image": "postgres:12",
+  "env": {
+    "POSTGRES_PASSWORD": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "volumes": ["andrewlaing_message_database_volume:/var/lib/postgresql/data"]
+}
