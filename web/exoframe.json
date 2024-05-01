@@ -5,6 +5,6 @@
   "env": {
     "APP_ENV": "PRODUCTION",
     "POSTGRES_HOSTNAME": "andrewlaing-message-database",
-    "POSTGRES_PASSWORD": "xxxxxxxxxxxxxxxxxxxxxxx"
+    "POSTGRES_PASSWORD": "@andrewlaing-postgres-password"
   }
 }
